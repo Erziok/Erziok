@@ -2,7 +2,7 @@
 
 ## About me 👨‍💻
 
-I'm 23 years old and I'm a Computer Science student from Chile 
+I'm 23 years old and I'm a Computer Engineering student from Chile 
 
 ## My Projects 💻
 
