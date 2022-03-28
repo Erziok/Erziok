@@ -14,8 +14,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
 ## I'm currently learning / working on 📝
 
-- Web Development 
-- React
+- Data Science 
 
 ## Contact 📢
 
