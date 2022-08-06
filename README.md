@@ -4,6 +4,7 @@
   <a href="https://github.com/erziok/erziok">
     <img src="https://komarev.com/ghpvc/?username=erziok" alt="page views" />
   </a>
+  
   <a href="https://github.com/erziok?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
   </a>
@@ -17,7 +18,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
 <p align="left">
 
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%20sharp-800080?style=for-the-badge&logo=C#&logoColor=white" />
@@ -33,7 +34,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img alt="Office" src="https://img.shields.io/badge/Google Colab-FFFFFF?style=for-the-badge&logo=google-colab&logoColor=orange" />
+  <img alt="Office" src="https://img.shields.io/badge/Google%20Colab-525252?style=for-the-badge&logo=google-colab&logoColor=orange" />
 
 </p>
 
