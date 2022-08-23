@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<!--
 <p align="left">
   <a href="https://github.com/erziok/erziok">
     <img src="https://komarev.com/ghpvc/?username=erziok" alt="page views" />
   </a>
+ -->
   
   <a href="https://github.com/erziok?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
