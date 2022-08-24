@@ -8,7 +8,7 @@
  -->
   
   <a href="https://github.com/erziok?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
+    <img alt="GitHub followers erziok" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
   </a>
 </p>
 
