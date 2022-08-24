@@ -7,11 +7,13 @@
   </a>
  -->
   
+<!--
   <a href="https://github.com/erziok?tab=followers">
     <img alt="GitHub followers erziok" src="https://img.shields.io/github/followers/erziok?color=green&logo=github">
   </a>
 </p>
-
+ -->
+ 
 ## About me 👨‍💻
 
 I'm 24 years old and I'm a Computer Engineering student from Chile 
