@@ -18,7 +18,7 @@
 
 I'm 24 years old and I'm a Computer Engineering student from Chile 
 
-## Languajes / Frameworks 💻
+## Languages / Frameworks 💻
 
 <p align="left">
 
