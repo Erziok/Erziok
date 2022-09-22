@@ -23,6 +23,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 <p align="left">
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-8993C1?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%20sharp-800080?style=for-the-badge&logo=C#&logoColor=white" />
@@ -31,6 +32,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
   <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-FF2C1F?style=for-the-badge&logo=laravel&logoColor=white" />
 
 </p>
 
