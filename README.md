@@ -57,7 +57,7 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
 ## I'm currently learning / working on 📝
 
-- Python / Django
+- Laravel
 - Working on my final career project
 
 ## Contact 📢
