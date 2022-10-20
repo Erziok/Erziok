@@ -47,7 +47,9 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 </p>
 
 ## Github Stats
+<!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edpobleteg&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edpobleteg&theme=tokyonight)<br/>
 
 
