@@ -48,14 +48,16 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
 ## Github Stats
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erziok&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+-->
 ![Total contributions / streaks](https://github-readme-streak-stats.herokuapp.com/?user=Erziok&theme=tokyonight)<br/>
 
 
 ## I'm currently learning / working on 📝
 
-- Laravel
-- Working on my career's final project
+- ETL
+- Talend Open Studio
 
 ## Contact 📢
 
