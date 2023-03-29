@@ -16,7 +16,7 @@
  
 ## About me 👨‍💻
 
-I'm 24 years old and I'm a Computer Engineering student from Chile 
+I'm 25 years old and I'm a Computer Engineering student from Chile 
 
 ## Languages / Frameworks 💻
 
@@ -56,8 +56,6 @@ I'm 24 years old and I'm a Computer Engineering student from Chile
 
 ## I'm currently learning / working on 📝
 
-- ETL
-- Talend Open Studio
 
 ## Contact 📢
 
