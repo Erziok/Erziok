@@ -18,7 +18,7 @@
 
 I'm 25 years old and I'm a Computer Engineer from Chile 
 
-## Languages / Frameworks 💻
+## You can find in my profile 💻 
 
 <p align="left">
 
