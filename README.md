@@ -58,6 +58,7 @@ I'm 25 years old and I'm a Software Engineer from Chile
 
 ## I'm currently learning / working on 📝
 
+Currently working in private projects 😔
 
 ## Contact 📢
 
