@@ -16,7 +16,7 @@
  
 ## About me 👨‍💻
 
-I'm 25 years old and I'm a Software Engineer from Chile 
+I'm a Software Engineer from Chile 
 
 ## I have worked with 💻 
 
